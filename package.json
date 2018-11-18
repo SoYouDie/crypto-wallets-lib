@@ -1,0 +1,16 @@
+{
+  "name": "crypto-wallets",
+  "version": "0.0.1",
+  "description": "All crypto wallet functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Crypto",
+    "blockchain",
+    "wallet"
+  ],
+  "author": "Roman Boiko <roman.bv20@gmail.com>",
+  "license": "ISC"
+}

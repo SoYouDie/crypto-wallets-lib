@@ -1,0 +1,15 @@
+.idea/
+*.swp
+/coverage
+/tmp
+*/**/*un~
+*un~
+.DS_Store
+*/**/.DS_Store
+example/js
+node_modules
+bower_components
+npm-debug.log
+/bower
+.npm/
+packages/
